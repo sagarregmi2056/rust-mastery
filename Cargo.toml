@@ -5,10 +5,3 @@ edition = "2024"
 
 [dependencies]
 
-[[bin]]
-name = "day1_ownership"
-path = "days/day1/ownership.rs"
-
-[[bin]]
-name = "day1_functions"
-path = "days/day1/functions.rs"
